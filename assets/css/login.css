@@ -1,0 +1,32 @@
+#sign{
+    margin-bottom: 20px; font-size: large;
+}
+#div_1{
+    font-size: x-large;background-color: white; padding: 50px;
+    border: 1px solid white; border-top-right-radius: 20px;border-bottom-right-radius: 20px; width: fit-content;display: inline-block;
+}
+#h_1{
+    font-size: large; margin-bottom: 25px;
+}
+p{
+    font-size: small;
+}
+#div_2{
+    border: solid 1px white;padding: 50px; width:fit-content; background-color: #3455f7c7;border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;color: white;display: inline-block;height: 275px;
+}
+body{
+    background-color: lightgray;font-family: "Comic Sans MS", cursive, sans-serif;
+}
+button{
+  color: white; background-color: #3455f7c7; border: 1px solid white; padding: 9px; border-radius: 20px;
+}
+input{
+    border: none; border-bottom: 1px solid black; padding: 2.5px;
+}
+#sumbit{
+color: white;background-color: #3455f7c7;padding: 10px; padding-left: 40px ;padding-right: 40px; border-radius: 20px; margin-left: 20px;
+}
+#maind{
+    margin:auto;width: fit-content; margin-top: 170px;
+}
