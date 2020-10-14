@@ -1,0 +1,42 @@
+
+ul {
+  list-style-type: none;margin: 0;  padding: 0;  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a{ 
+  display: block; color: #221638; text-align: center; padding-top: 14px; text-decoration: none; width: 100px;
+  margin-left: 200px; margin-top: 25px;
+}
+#img_logo{
+margin-left: 20px; margin-top: 20px;
+}
+
+li a:hover {
+  color:#dc3545;
+}
+h1 {
+    margin-bottom: 25px; font-size: 45px; font-weight: 700; color: #221638; margin-top: 80px; margin-left: 30px;
+}
+#img1{
+    float: right; width: 665px; height: 538px;
+}
+body{
+  font-family:  "Comic Sans MS", cursive, sans-serif;
+}
+#p_1{
+  font-size: large;color: black; margin-left: 30px;
+}
+#div_1{
+  
+}
+#contact{
+  color: white; background-color: #dc3545; font-size: large; padding:10px 20px 10px 20px; border-radius: 5px;
+  text-decoration: none; margin-left: 30px;
+}
+#a_c{
+  color: white; text-decoration: none;
+}

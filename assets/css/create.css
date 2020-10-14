@@ -1,0 +1,24 @@
+#div_1{
+display: inline-block;font-size: 70%;color: white; padding: 50px;
+border: 1px solid white; border-top-left-radius: 20px;border-bottom-left-radius: 20px; width: fit-content;background-color: #3455f7c7
+;height: 80px;}
+
+#div_2{
+display: inline-block; margin: auto; font-size: large;background-color: white; padding: 50px;
+border: 1px solid white; border-top-right-radius: 20px;border-bottom-right-radius: 20px; width: fit-content;color: #3455f7c7;
+}
+body{
+    background-color: lightgray;font-family: "Comic Sans MS", cursive, sans-serif;
+}
+input{
+    border: none; border-bottom: 1px solid black; padding: 2.5px;
+}
+#submit{
+color: white;background-color: #3455f7c7;padding: 10px; padding-left: 40px ;padding-right: 40px; border-radius: 20px; margin-left: 20px;
+}
+#main{
+    margin:auto;width: fit-content; margin-top: 170px;
+}
+#create{
+; font-size: large;
+}

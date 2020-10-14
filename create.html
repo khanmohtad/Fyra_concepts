@@ -1,13 +1,27 @@
 <html>
     <head>
-
+     <link rel="stylesheet" href="assets/css/create.css">
     </head>
 
     <body>
-        <form action="create.php">
+<div id="main">
+<div id="div_1">        <h1>
+            Already have user id?<br>
+            <br>
+            Click on <a href="login.html" target="_blank">Login</a>  
+        </h1>
+</div>
+<div id="div_2">
+        <h1 id="create">Create User ID</h1>
+        <form action="create.php" method="POST">
+            <br>
         <input type="text" name="create_n" id="create_n" placeholder="Full name"><br>
+        <br>
         <input type="password" name="c_pass" id="c_pass" placeholder="Create password"><br>
-        <input type="submit" value="create">
+        <br>
+        <input type="submit" value="Create id" id="submit">
     </form>
+</div>
+</div>
     </body>
 </html>
